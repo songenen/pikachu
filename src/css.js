@@ -1,9 +1,11 @@
-*{box-sizing: border-box;margin:0;padding: 0;}
-*::before{box-sizing: border-box}
-*::after{box-sizing: border-box}
-body{
+const string =`
+.skin *{box-sizing: border-box;margin:0;padding: 0;}
+.skin *::before{box-sizing: border-box}
+.skin *::after{box-sizing: border-box}
+.skin{
     background: #ffe600;
-    min-height: 100vh;
+    min-height: 50vh;
+    position:relative;
     }
 
 .skin{
@@ -183,10 +185,10 @@ border-radius: 120% 120% 0 0;
     background: #ff0000;
     border-radius: 50%;
 }
-
 .face.right{
     transform: translateX(180px);
     background: #ff0000;
     border-radius: 50%;
 }
-
+`
+export default string

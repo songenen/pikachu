@@ -1,11 +1,133 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5012597f-b953-4ff1-9593-0ee31731d68d" name="Default Changelist" comment="" />
+    <list default="true" id="5012597f-b953-4ff1-9593-0ee31731d68d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cache/0c/346e9cdb6286258c4e881960e34012.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/12/d4732d6c907964b99b68faf2e567f7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/13/40d07825faf7da84151f8f610317a9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/1a/f8421ba635f642fb31b5842bfa96fa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/23/7dfb35305a43ee9ea4a29120782087.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/27/4b49bfea1e143d2ba6b790d8ed86e9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/27/79e2fbf776688ec4f64a5fb302e8e5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/28/fcb441580211e7661dba99eebc03e1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2c/317585f453d388fed5ee1b6b61f459.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2c/c0b1e285d1bb02e7fc1845177705af.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2d/c6c43e7acfa009694b9e497ef8eb9c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/2e/b33733c023df7ecce2bf64efb7781c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/37/19eb8a558070a240a6aa225cc385c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/37/7e212922406453978a54c4f578515d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/38/56dadda52ecb42f39507eb2a1029fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/43/cf29ecb642209a727d977988e49647.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4e/ed116f9887d418a4dbdb81c186d715.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/4f/a637c8881f3aeba622c0ae11460793.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/5b/476abfd5672de8b92d62bfd61785c9.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/62/c015c6bc961d2a2942943d61742933.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/65/10adb37507563bd442b1287cf5a3ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/67/2cd3939a4376cdd0350afa90c0e610.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/6e/69d03077703e4b1ef8cac942c36712.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/72/fa978638d3367da3bc9b2a80dbfa1b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8a/6f7cfaafb7f46ad93d44b51ea94377.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8c/19fbb47619e41718b242d80990b3d7.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/8f/af4fefd5a232a7304a1c29ce467cf5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/94/f811d88dbd837e4730167641202cc4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/99/0151238a8f67c0b9f9e3f58add2fb5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/a0/309640c3ca79d42d22a02f8be60cc2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b4/74ef2235dfe80cf75df4b1510cb9ec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b4/75ebe9a21665e83c2c23f084929d27.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/b7/9a96afc294482b3c474040898d8d0c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/bb/4efaff0ab20c07323234142145d5f3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/dc/c65416e2f781ae8f91114df6d34e03.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/dc/d033a3f6d5de92a1883570c1feb469.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e2/3a054d53bcd4959e42147ad7e18016.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/e9/92b9b1488447d090a30e4c2a59cfdc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f2/86972ef0a6939c1ca4074a02711ddf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/f7/80a77fed6d924d44d53775ff4d217f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fa/dd905a79530f0c852151bafb3ca961.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.cache/fc/53ea50d003e37b6e828170720beb73.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/atob" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/atob.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.bin/atob.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/LICENSE.DOCS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/bin/atob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/browser-atob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/node-atob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/atob/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/parse/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/compiler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/compress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/identity.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/lib/stringify/source-map-support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/css/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/decode-uri-component/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map-resolve/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map-resolve/changelog.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map-resolve/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map-resolve/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map-resolve/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/dist/source-map.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/array-set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/base64-vlq.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/base64.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/binary-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/mapping-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/quick-sort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map-consumer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-map-generator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/source-node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/lib/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/source-map.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/source-map/source-map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cache/fa/2d3b35806ffe851e1e52dfa0aa396c.json" beforeDir="false" afterPath="$PROJECT_DIR$/.cache/fa/2d3b35806ffe851e1e52dfa0aa396c.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/3.74aed6f5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/main.1f19ae8e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/style.e308ff8e.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1g7IQ2QDFpaelPATjJr9c8Ce9sC" />
   <component name="ProjectViewState">
@@ -15,7 +137,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../react-demo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -26,7 +155,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597459183908</updated>
-      <workItem from="1597459184963" duration="77000" />
+      <workItem from="1597459184963" duration="1089000" />
+      <workItem from="1598863296687" duration="1488000" />
+      <workItem from="1598965071489" duration="587000" />
+      <workItem from="1599017246361" duration="9000" />
+      <workItem from="1599017269206" duration="6000" />
+      <workItem from="1599017287357" duration="687000" />
+      <workItem from="1599019632947" duration="10990000" />
+      <workItem from="1599031694589" duration="40000" />
     </task>
     <servers />
   </component>
@@ -37,10 +173,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="819" y="153" key="FileChooserDialogImpl" timestamp="1597459202780">
+    <state x="819" y="153" key="FileChooserDialogImpl" timestamp="1597470474773">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="819" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597459202780" />
+    <state x="819" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1597470474773" />
     <state x="540" y="57" key="SettingsEditor" timestamp="1597459261112">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
