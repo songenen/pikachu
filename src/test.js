@@ -1,4 +1,4 @@
-import string from './css.js'
+import string from 'css.js'
 
 const demo = document.querySelector('#demo')
 const demo2 = document.querySelector('#demo2')
